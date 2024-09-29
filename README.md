@@ -1,1 +1,19 @@
 # GARAPATI-POOJITHA
+- **Project Title:** Hotel Booking Analysis using Excel
+- **Objective:** Analyze booking patterns, cancellations, and guest demographics to derive actionable insights.
+- **Key Responsibilities:**
+    - Collected and cleaned data on hotel bookings.
+    - Analyzed booking trends, including cancellations and guest demographics (adults, children, babies).
+    - Examined booking frequency on weekends vs. weekdays.
+    - Analyzed special requests, noting many repeat visitors.
+- **Key Findings:**
+    - High cancellation rates identified.
+    - Higher booking rates on weekends compared to weekdays.
+    - Typical booking composition noted (adults, children, babies).
+    - Significant portion of guests made special requests, with many being repeat visitors.
+- **Tools and Techniques:**
+    - Utilized Excel for data cleaning, analysis, and visualization.
+    - Created pivot tables, charts, and graphs to present findings.
+- **Impact:**
+    - Provided actionable insights to hotel management to improve booking processes and reduce cancellations.
+    - Enhanced understanding of guest preferences and behaviors for better customer service and targeted marketing.
